@@ -11,5 +11,5 @@ south = 800000000
 print("World population: ", total)
 print("Northern Hemisphere: ", north)
 print("Northern Hemisphere in %: ", north/total*100)
-print('Southern Hampshire:', south)
+print('Southern Hempishphere:', south)
 print("Southern Hempisphere in %", south/total*100)
