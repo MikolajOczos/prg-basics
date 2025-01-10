@@ -1,0 +1,6 @@
+stock = [(20,5.50),(15,8.30),(37,3.85),(4,11.60)]
+
+sumation = lambda stock: stock[0]*stock[1]
+after_map = list(map(sumation,stock))
+after_sum  =  sum(after_map)
+print(after_sum)
